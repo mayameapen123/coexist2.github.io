@@ -23,7 +23,7 @@ count = count*-1;
 $(".hom2").hide();
 $(".hom3").hide();
 $(".hom4").hide();
-
+$("a").css("color","white");
 
 $(".emptys").css('transform', 'rotate('+rand+'deg)');
 
@@ -35,21 +35,26 @@ window.addEventListener("scroll", (event) => {
 
     if(scroll<700){
       $("h2").css("color","white");
+      $("a").css("color","white");
       $(".vline").css("background-color","white")};
 
       if(scroll>700& scroll<1500){
       $("h2").css("color","black");
+      $("a").css("color","black");
       $(".vline").css("background-color","black");
      
       };
       if(scroll>1500& scroll<2200){
       $("h2").css("color","white");
+        $("a").css("color","white");
       $(".vline").css("background-color","white")};
        if(scroll>2200& scroll<2900){
       $("h2").css("color","black");
+        $("a").css("color","black");
       $(".vline").css("background-color","black")};
        if(scroll>3000){
       $("h2").css("color","white");
+        $("a").css("color","white");
       $(".vline").css("background-color","white")};
 
       if(scroll>2400 & scroll <3000){
