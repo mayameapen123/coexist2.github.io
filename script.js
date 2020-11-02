@@ -118,7 +118,7 @@ $(".c3").on("mouseenter",function(){
 });
 
 $(".c3").on("mouseleave",function(){
-  $(".a3").css("opacity","1");
+  $(".a3").css("opacity","0.5");
 
 });
 
