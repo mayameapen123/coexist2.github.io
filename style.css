@@ -68,6 +68,12 @@ font-weight: 600;
 
 font-style: normal;
 }
+
+a:hover {
+  opacity: 0.2;
+  text-decoration-line: none;
+}
+
  
 img {
   width: 100%;
