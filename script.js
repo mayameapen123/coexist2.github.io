@@ -100,3 +100,26 @@ $(".c3").click(function() {
   window.location.href='https://mayameapen123.github.io/coexist3.github.io/';
 });
 
+//added NOW!!!1
+
+$(".c1").on("mouseenter",function(){
+  $(".a1").css("opacity","0.2");
+
+});
+
+$(".c1").on("mouseleave",function(){
+  $(".a1").css("opacity","0.5");
+
+});
+
+$(".c3").on("mouseenter",function(){
+  $(".a3").css("opacity","0.2");
+
+});
+
+$(".c3").on("mouseleave",function(){
+  $(".a3").css("opacity","1");
+
+});
+
+
