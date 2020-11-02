@@ -235,7 +235,7 @@ color: white;
 }
 
 .grid {
-  padding-top:5%;
+  padding-top:10%;
    height: 1200px;
   background-color:black;
   padding-right: 20%;
@@ -267,4 +267,9 @@ color: white;
   position: relative;
   bottom:250px;
   right: 60px;
+}
+
+.newmb {
+  position:relative;
+  bottom: 30px;
 }
