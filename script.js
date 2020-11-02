@@ -85,4 +85,18 @@ $(".pop_up2").hide();
 $(".pop_up3").hide(10);
 }); 
 
+$(".c1").click(function() {
+   
+  window.location.href='https://mayameapen123.github.io/Coexist1.github.io/';
+});
+
+$(".c2").click(function() {
+   
+  window.location.href='https://mayameapen123.github.io/coexist2.github.io/';
+});
+
+$(".c3").click(function() {
+   
+  window.location.href='https://mayameapen123.github.io/coexist3.github.io/';
+});
 
