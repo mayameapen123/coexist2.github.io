@@ -258,3 +258,13 @@ color: white;
   top: -950px;
   height: 250px;
 }
+
+.mr200{
+  margin-right: 200px;
+}
+
+.moveup{
+  position: relative;
+  bottom:250px;
+  right: 60px;
+}
